@@ -1,0 +1,44 @@
+name: candi_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you are not publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/background.jpg
+    - assets/candi arjuna.jpg
+    - assets/candi badut.jpg
+    - assets/candi borobudur.jpg
+    - assets/candi cetho.jpg
+    - assets/candi gedongsongo.jpg
+    - assets/candi kalasan.jpg
+    - assets/candi kidal.jpg
+    - assets/candi mendhut.jpg
+    - assets/candi pawon.jpg
+    - assets/candi prambanan.jpg
+    - assets/candi sambisari.jpg
+    - assets/candi sewu.jpg
+    - assets/candi sukuh.jpg
+    - assets/icons.jpg
+    - assets/masjid agung banten.jpg
+    - assets/masjid agung demak.jpg
+    - assets/masjid menara kudus.jpg
+    - assets/masjid ternate.jpg
